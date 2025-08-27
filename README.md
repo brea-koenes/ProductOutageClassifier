@@ -40,11 +40,6 @@ Each model was trained using 5-fold stratified cross-validation and tuned for op
 
 ### 🏆 Best Model
 - **LightGBM** with **combined TF-IDF + BERT features**
-- Final test set performance:
-  - **F1 Score**: 0.6316
-  - **Precision**: 0.8571
-  - **Recall**: 0.5000
-  - **Log Loss**: 0.0348
 
 ---
 
@@ -56,9 +51,9 @@ The final model is deployed via a **Streamlit web app**, allowing users to input
 
 ## 📁 Repository Structure
 
-├── Project_Code.pdf # Annotated code and results 
+├── Project Code.pdf # Annotated code and results 
 
-├── Project_Overview.pdf # Executive summary and methodology 
+├── Project Overview.pdf # Executive summary and methodology 
 
 ├── README.md # Repository documentation
 
