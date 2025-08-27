@@ -56,7 +56,11 @@ The final model is deployed via a **Streamlit web app**, allowing users to input
 
 ## 📁 Repository Structure
 
-product-outage-classifier/ ├── Project_Code.pdf # Annotated code and results ├── Project_Overview.pdf # Executive summary and methodology ├── README.md # Repository documentation
+├── Project_Code.pdf # Annotated code and results 
+
+├── Project_Overview.pdf # Executive summary and methodology 
+
+├── README.md # Repository documentation
 
 ---
 
